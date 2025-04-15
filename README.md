@@ -50,3 +50,13 @@ To get started with **SheetSense**, clone the repository and follow the steps be
 
 ```bash
 git clone  https://github.com/pratibhavanave/SheetSense.git
+
+```
+## Screenshots
+
+### SheetSense Dashboard
+Here’s a screenshot of the **SheetSense** Upload:
+![Dashboard Screenshot 1](sheetsense1.png)
+
+### Screenshort of Dashboard
+![Dashboard Screenshot 2](sheetsense2.png)
